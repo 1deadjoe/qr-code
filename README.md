@@ -21,8 +21,8 @@ This solution provides a QR code component that encourages users to improve thei
 ![](images/screenshot.jpg)
 
 ### Links
-Solution URL - Link to the solution's code repository.
-Live Site URL - Link to the live deployment of the solution (if available).
+[Solution URL](https://github.com/1deadjoe/qr-code.git)
+[Live Site URL](https://qr-code-xi-jet.vercel.app/)
 
 ## My Process
 
